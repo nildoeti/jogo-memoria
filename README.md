@@ -1,5 +1,7 @@
 # Jogo Memoria
- Jogo da memória com a temática de Super Mario!
+Jogo da memória com a temática de Super Mario!
+
+![Jogo da Memoria](./img/Captura-de-tela-jogo-da-memoria.png)
 
 Projeto, **jogo da memória** utilizando apenas HTML, CSS e Javascript.
 Este projeto tem como base
